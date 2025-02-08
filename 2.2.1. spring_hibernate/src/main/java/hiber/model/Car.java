@@ -50,9 +50,11 @@ public class Car {
     public void setCarId(Long carId) {
         this.carId = carId;
     }
+
     public String getModel() {
         return model;
     }
+
     public void setModel(String model) {
         this.model = model;
     }
